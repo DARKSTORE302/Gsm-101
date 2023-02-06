@@ -1,8 +1,8 @@
 {
-  "name": "Anya-MD",
+  "name": "GSM-MD BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.COM/PikaBotz/Anya-pika-MD-V2",
-  "logo": "https://github.com/PikaBotz/My_Personal_Space/blob/main/Images/AnyaBot_pics/Anya_v2/Anyapic.jpg&name=900x900",
+  "repository": "https://github.com/DARKSTORE302/Gsm-101",
+  "logo": "https://i.ibb.co/P5y2591/z299qo.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
